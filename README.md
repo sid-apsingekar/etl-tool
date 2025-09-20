@@ -8,10 +8,6 @@ A lightweight ETL (Extract, Transform, Load) tool built with **Streamlit** and *
 - 🗄️ Load transformed data into MySQL
 - ✅ Test DB connection
 
-## Developers
-- Sidharth Apsingekar (A04)
-- Swati Borade (A15)
-
 ---
 Run the app:
 ```bash

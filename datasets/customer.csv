@@ -1,0 +1,11 @@
+CustomerID,Name,Email,Age,Country,Purchase_Amount
+1,John Doe,john.doe@gmail.com,28,USA,250
+2,Jane Smith,janesmith@@gmail.com,34,usa,300
+3,Bob Johnson,,45,UK,NaN
+4,alice Williams,alice.williams@gmail.com,thirty,Canada,150
+5,Mike O'Neil,mike.oneil@gmail,29,Usa,200
+6,John Doe,john.doe@gmail.com,28,USA,250
+7, ,samuel.jackson@gmail.com,40,UK,350
+8,Linda,Linda123@yahoo.com,27,USA,NaN
+9,Maria Gonzales,maria_gmail.com,31,Mexico,400
+10,Tom Brown,tom.brown@gmail.com,22,USA,180

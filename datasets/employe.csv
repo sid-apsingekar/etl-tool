@@ -1,0 +1,11 @@
+EmpID,Name,Department,Joining_Date,Salary,Email
+1,John Doe,IT,2020/01/15,50000,john.doe@company.com
+2,Jane Smith,HR,15-02-2019,55000,jane.smith@company.com
+3,Bob Johnson,Finance,,60000,bob.johnsoncompany.com
+4,Alice Williams,IT,2021-07-20,NaN,alice@company.com
+5,Mike O'Neil,Marketing,2020-05-30,45000,mike.oneil@company
+6,Linda Green,HR,2019/13/01,50000,linda.green@company.com
+7,,IT,2021-01-01,52000,tom.black@company.com
+8,Maria Gonzales,Finance,2020/03/15,NaN,maria@company.com
+9,Samuel Jackson,IT,2022/01/25,48000,samuel.jackson@company.com
+10,Tom Brown,Marketing,2020-12-15,47000,tom.brown@company.com

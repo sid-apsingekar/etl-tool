@@ -1,0 +1,11 @@
+ProductID,Product_Name,Category,Price,Stock,Discount
+101,Wireless Mouse,Electronics,25.99,100,5
+102,USB Cable,electronic,5.5,50,0
+103,Laptop,Electronics,899,20,10
+104,Desk Chair,Furniture,120.0,NaN,15
+105,Desk Desk Chair,Furnitur,115,15,10
+106,Monitor,Electronics,NaN,25,5
+107,Monitor,Electronics,300,25,5
+108,Keyboard,Electronics,45,30,abc
+109,Pen,Stationary,1.5,500,0
+110,Notebook,stationery,2,NaN,0

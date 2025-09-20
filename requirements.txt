@@ -1,0 +1,6 @@
+streamlit
+pandas
+sqlalchemy
+pymysql
+scikit-learn
+python-dotenv
